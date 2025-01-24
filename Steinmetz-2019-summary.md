@@ -13,7 +13,11 @@ Steinmetz et al. (2019) focused on pre-movement activity to predict upcoming mov
 Neurons that encode actions are widely distributed, while those that encode choices are rarer and less widely distributed. Choice-encoding neurons show unilateral encoding in the midbrain and bilateral encoding in the forebrain.
 
 Summary of findings:
+
 • Visual activity pathways are localized.
+
 • Action-related signals are global.
+
 • Choice-encoding neurons are rarer and less widely distributed than action-encoding neurons.
+
 • Pre-stimulus activity can predict a mouse's response to a stimulus.
