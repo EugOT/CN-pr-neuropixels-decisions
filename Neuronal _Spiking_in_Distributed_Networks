@@ -1,9 +1,14 @@
-The study employs Neuropixels probes to investigate neural activity throughout the mouse brain during a visual discriminating test. Neuronal spiking (action potentials) is the essential mechanism facilitating the distributed encoding of vision, decision-making, action, and engagement shown in this work. 
+The study employs Neuropixels probes to investigate neural activity throughout the mouse brain during a visual discriminating test. 
+Neuronal spiking (action potentials) is the essential mechanism facilitating the distributed encoding of vision, decision-making, 
+action, and engagement shown in this work. 
+
 Neuronal Firing in Distributed Networks
-Neurons exhibit spiking due to excitation and inhibition, which facilitate transitions between resting and active states. This spiking activity underlies the brain-wide neural correlates identified in:
+Neurons exhibit spiking due to excitation and inhibition, which facilitate transitions between resting and active states. 
+This spiking activity underlies the brain-wide neural correlates identified in:
 
 Vision: Localized spiking in traditional sensory pathways, including the visual cortex and superficial superior colliculus (SCs).
 
 Action: Global spiking activity before to movement, detected in almost all documented brain areas.
 
-Selection: Distinct spiking patterns in confined areas, such as the frontal cortex, basal ganglia, and midbrain, representing lateralized judgments.
+Selection: Distinct spiking patterns in confined areas, such as the frontal cortex, basal ganglia, and midbrain, representing 
+lateralized judgments.
