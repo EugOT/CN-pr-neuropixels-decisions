@@ -1,0 +1,20 @@
+Mechanism of Action Potential Generation (Steinmeltz et al., 2019)
+
+Excitation and inhibition govern neural dynamics.
+Excitatory inputs from areas processing visual stimuli (e.g., visual cortex, thalamus) depolarize neurons by activating glutamate-mediated ion channels (e.g., AMPA and NMDA), hence enhancing the probability of action potentials.
+Inhibitory inputs, especially from GABAergic neurons in subcortical areas, modulate spiking by hyperpolarizing the membrane and diminishing activity in situations where spiking would be detrimental.
+
+This interaction guarantees accurate coding, as seen in the paper's findings where neurons processing visual stimuli exhibit selective firing in sensory regions.
+
+Action-related spiking is indiscriminate and disseminated across the brain.
+
+Choice-related spiking is localized and associated with task-relevant factors.
+
+Significance of Spiking Mechanisms 
+
+The spiking mechanism corresponds with the organizational principles defined in the paper (Steinmeltz et al., 2019): Excitation and inhibition influence the spatial and temporal dynamics of neuronal spiking. 
+The widespread spiking dynamics facilitate the synthesis of sensory inputs, decision-making, and behavioral involvement throughout several brain regions. 
+Neuropixels recordings elucidate the organization of spiking patterns, emphasizing the brain's capacity to encode intricate activities via the interaction of localized and distant networks.
+
+
+
