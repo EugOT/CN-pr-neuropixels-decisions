@@ -1,0 +1,15 @@
+Question: What can ISI tell us?
+
+Phenomenon: Inter Spike Intervals (ISI): the time duration between consecutive spikes (or action potentials) of a neuron
+
+The length of ISI can inform us about neuronal behavior and connectivity. 
+
+In the study, ISIs were analyzed from a large population of recorded neurons across various brain regions while the mice performed a visual task.
+
+The data captured variability in ISIs among different neurons >  some exhibited short ISIs (indicating rapid firing and high excitability) whereas  others showed longer ISIs (suggesting reduced activity/ a refractory phase). 
+
+Methods such as z-scoring were employed to quantify the significance of firing rates. 
+
+The analysis of ISIs contributed to understanding of choice-encoding neurons, with variations in firing patterns correlating with decision-making processes during the visual task. 
+
+Overall, the data on ISIs provide insights into neuronal behavior, highlighting how firing patterns contribute to coding choices and processing information within the brain during task performance.
